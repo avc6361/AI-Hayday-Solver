@@ -1,6 +1,6 @@
 # CMPSC441-AI-HayDay-Solver
 Resource and order fullfilment maximizer for Supercell's Hay Day.
-Live demo: https://theicystar.github.io/CMPSC441-AI-HayDay-Solver/
+Live demo: https://avc6361.github.io/AI-Hayday-Solver/
 
 Note: Only a greedy solver is currently available.
 
